@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 👀 I’m interested in Machine Learning and Recommender System, NLP, Multimodal AI
+- 🏠 My HP : https://www.tomoaki-ohkawa.com/
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomo-cps)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomo-cps&layout=compact)
