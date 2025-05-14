@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👀 I’m interested in Machine Learning, Recommender System, NLP and Multimodal AI.
+- 👀 Interested in LLM & Multimodal AI
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomo-cps)
 
